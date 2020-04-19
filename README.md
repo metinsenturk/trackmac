@@ -34,6 +34,13 @@ Activate the environment you just created.
 source .venv/bin/activate
 ```
 
+Install Apple dependencies and packages.
+
+```sh
+# install requirements
+python -m pip install -r requirements.txt
+```
+
 Run the script.
 
 ```sh
