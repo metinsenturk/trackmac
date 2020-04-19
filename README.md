@@ -18,6 +18,29 @@ Finally, this is what my `trackmac` shows since I've forked the repository!
    38m28s Sitting at the computer
 ```
 
+### How to Use Python3 Version?
+
+You need to setup an environment using `requirements.txt` file.
+
+```sh
+# create an environment
+python3 -m venv .venv
+```
+
+Activate the environment you just created.
+
+```sh
+# activate
+source .venv/bin/activate
+```
+
+Run the script.
+
+```sh
+# run the module
+python trackmac.py
+```
+
 ### Original README
 
 ```
